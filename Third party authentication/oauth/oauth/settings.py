@@ -186,5 +186,3 @@ LOGIN_REDIRECT_URL='home'
 LOGOUT_REDIRECT_URL='account_login'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
-# client id  fc2b11a792a6c7ff0333
-#client secret  375ea6d4d69e1d231e44d2893f8d1f38d79c38d9
